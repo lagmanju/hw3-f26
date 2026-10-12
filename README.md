@@ -1,2 +1,1 @@
-# hw3-f26
-SI 5538 HW3
+# Responsive Grid
